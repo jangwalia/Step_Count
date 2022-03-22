@@ -1,0 +1,21 @@
+.form_control{
+  margin:0 auto;
+  padding: 5em;
+}
+.input_control{
+  display:flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+.input_control input{
+  height:2em;
+}
+.form_action{
+  margin-top:2em;
+}
+.form_action button{
+  width: 8em;
+  background-color: aquamarine;
+  border-radius: 10px;
+  height: 3em;
+}

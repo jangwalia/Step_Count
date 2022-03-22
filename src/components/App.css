@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  background-color: rgb(111, 6, 160);
+  padding: 2em;
+  color: aliceblue;
+}
+body{
+  background-color: antiquewhite;
+}
+
+
