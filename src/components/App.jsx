@@ -5,6 +5,7 @@ import Showsteps from './Showsteps';
 import data from '../data/steps'
 //* main Root component
 function App() {
+  //setting steps to state
   const[steps,setSteps] = useState(data.data)
   const handleSubmitStepdata = (stepdata)=>{
     setSteps(prev => {
